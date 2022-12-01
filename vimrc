@@ -1,3 +1,7 @@
+"Command-T
+
+let g:CommandTPreferredImplementation='ruby'
+
 "Layout and Color"
 filetype plugin indent on
 syntax on
